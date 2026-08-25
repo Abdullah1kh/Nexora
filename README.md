@@ -724,7 +724,7 @@ Contribution guidelines will be added once the core architecture and public deve
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/7390a3d8-1190-4af8-b7ad-a44d76d6cc8e" alt="Nexora logo" width="140">
+<img src="https://github.com/user-attachments/assets/8072e1c0-4ca3-40d8-bb26-fd80064bf019" alt="Nexora logo" width="140">
 
 <br><br>
 
