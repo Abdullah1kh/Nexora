@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/images/nexora-hero.png" alt="Nexora" width="100%">
+<img src="https://github.com/user-attachments/assets/708e2230-aa16-4f3a-acc6-6e08c0a2e111" alt="Nexora" width="100%">
 
 <br>
 
@@ -142,7 +142,7 @@ An installable PWA with:
 
 ## Architecture
 
-<img src="docs/images/nexora-architecture.png" alt="Nexora architecture" width="100%">
+<img src="https://github.com/user-attachments/assets/d8a5920b-019b-493d-8ec9-a4761b85158e" alt="Nexora architecture" width="100%">
 
 The application is split into a frontend, API/backend, memory and search services, AI providers, and external connectors.
 
@@ -152,7 +152,7 @@ The important architectural decision is that the AI provider is **replaceable**.
 
 ## Memory is the core
 
-<img src="docs/images/nexora-memory-system.png" alt="Nexora memory system" width="100%">
+<img src="https://github.com/user-attachments/assets/af8b0b80-6727-4fd2-8bcd-75b32286ee5f" alt="Nexora memory system" width="100%">
 
 Nexora does not treat every conversation message as permanent memory.
 
@@ -166,7 +166,7 @@ This also powers the RAG layer: relevant memories and document chunks are retrie
 
 ## Local-first AI
 
-<img src="docs/images/nexora-local-first.png" alt="Nexora local-first architecture" width="100%">
+<img src="https://github.com/user-attachments/assets/74a9119c-9dc5-42fc-b3d8-c2c691ef1f9a" alt="Nexora local-first architecture" width="100%">
 
 The project aims for a **$0 recurring cost for personal use** where realistically possible.
 
@@ -375,7 +375,7 @@ Sharing is intentionally explicit: sharing one resource does not automatically e
 
 ## Mobile
 
-<img src="docs/images/nexora-mobile-preview.png" alt="Nexora mobile preview" width="45%">
+<img src="https://github.com/user-attachments/assets/9fb92e4e-c7ed-465f-b9a9-1b590e1369e5" alt="Nexora mobile preview" width="45%">
 
 Nexora is installable as a PWA and is designed around quick capture rather than simply shrinking the desktop interface.
 
@@ -398,7 +398,7 @@ Mutating operations still require a live connection; the current offline layer d
 
 ## Dashboard
 
-<img src="docs/images/nexora-dashboard-preview.png" alt="Nexora dashboard preview" width="100%">
+<img src="https://github.com/user-attachments/assets/888e060c-048c-4044-80d8-e290f57003f0" alt="Nexora dashboard preview" width="100%">
 
 The dashboard brings the system together in one interface.
 
@@ -724,7 +724,7 @@ Contribution guidelines will be added once the core architecture and public deve
 
 <br>
 
-<img src="docs/images/nexora-logo.png" alt="Nexora logo" width="140">
+<img src="https://github.com/user-attachments/assets/7390a3d8-1190-4af8-b7ad-a44d76d6cc8e" alt="Nexora logo" width="140">
 
 <br><br>
 
